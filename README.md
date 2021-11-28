@@ -1,2 +1,2 @@
-# UCOB Nael Quptes
+# UCOB Nael Quotes
 A FFTools script that calls out the Nael quote mechanics in The Unending Coil of Bahamut (Ultimate).
